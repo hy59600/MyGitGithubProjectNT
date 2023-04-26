@@ -10,8 +10,10 @@ public class AtmProject {
         //version4
 
         System.out.println("hakan branchi kodlarını yazdı");
-        //version nsb1
+        //version hkn1
         System.out.println("bir kısım kodlar yazdım");
-        //nsb2
+        //hkn2
+        System.out.println();
+        //hkn3
     }
 }
