@@ -16,5 +16,6 @@ public class AtmProject {
         System.out.println();
         //hkn3
         System.out.println();
+        //lokalde değişiklik yaptım.
     }
 }
